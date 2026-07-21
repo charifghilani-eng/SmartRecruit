@@ -1,0 +1,19 @@
+offer_id,job_title,company,city,state,extracted_skills,num_skills_found,years_required,education_required
+0,Project Manager,American Well,Boston,MA,"git, api, visio, excel, stakeholder, process improvement, pmp, senior, lead, manager, director, healthcare, insurance, leadership, communication, time management",16,6.0,Not specified
+1,Senior Project Manager,Razorfish Health,Philadelphia,PA,"git, visio, business requirement, process improvement, bachelor, senior, lead, junior, manager, healthcare, communication, mentoring",12,7.0,Bachelor
+2,IT Project Manager,Cross River Bank,Fort Lee,NJ,"api, excel, stakeholder, pmp, risk management, computer science, information technology, manager, banking, communication",10,,Not specified
+3,Technical Project Manager,C Squared Systems LLC,Auburn,NH,"api, excel, stakeholder, agile, waterfall, pmp, csm, ms project, project lifecycle, cross functional, senior, lead, manager, communication, collaboration",15,,Not specified
+4,Implementation Project Manager,Serraview,Atlanta,GA,"functional requirement, uat, bachelor, lead, manager, opt, leadership, time management",8,5.0,Bachelor
+5,Associate Project Manager,Entrust Datacard,Shakopee,MN,"rest, excel, safe, bachelor, manager, work authorization, communication",7,2.0,Bachelor
+6,Business Analyst,CesiumAstro,Austin,TX,"sql, oracle, api, sql, excel, uat, business process, bachelor, us citizen, opt, finance, communication, time management",13,2.0,Bachelor
+7,Senior Business Analyst,Ellwood Specialty Steel Company,New Castle,PA,"html, api, excel, ms project, bachelor, information technology, senior, lead, manager, ecommerce, communication, problem solving",12,5.0,Bachelor
+8,IT Business Analyst,ADC Solutions USA - Winplus,Costa Mesa,CA,"sql, aws, sql, uat, business process, computer science, director, supply chain, ecommerce, communication, collaboration",11,,Not specified
+9,Sr Business Analyst,"Sunquest Information Systems, Inc.",Tucson,AZ,"sql, sql, excel, uat, bachelor, senior, lead, opt, healthcare, finance, leadership",11,5.0,Bachelor
+10,Business Analyst - Entry-Level,Global Benefits Group,Foothill Ranch,CA,"visio, uat, process improvement, business process, bachelor, insurance, communication, problem solving",8,2.0,Bachelor
+11,Salesforce Business Analyst,S&P Global,Charlottesville,VA,"visio, business process, agile, scrum, scrum master, product owner, retrospective, master, lead, manager, leadership, communication, negotiation, critical thinking, mentoring",15,5.0,Master
+12,Senior Java Developer,APPS CONSULTANTS,Hollywood,FL,"java, javascript, sql, mongodb, nosql, git, api, junit, unit testing, jira, visio, sql, agile, scrum, jira, product owner, lead, insurance",18,6.0,Not specified
+13,Java Software Engineer,Cisco Careers,San Jose,CA,"node, sql, mongodb, nosql, kubernetes, rest, api, sql, excel, velocity, lead, communication, negotiation",13,,Bachelor
+14,Sr. JAVA consultant,Miracle Software Systems,Michigan,Michigan,"java, angular, javascript, soap, api, excel, bachelor, computer science, information technology, communication, presentation skill",11,,Bachelor
+15,Business Analyst/Project Manager,FutureSoft IT,Farmington Hills,MI,"java, api, visio, excel, sharepoint, business requirement, functional requirement, stakeholder, uat, business process, agile, scrum, sprint, scrum master, product backlog, acceptance criteria, bachelor, master, mba, computer science, lead, manager, leadership, communication, collaboration, time management",26,7.0,MBA
+16,Project Manager / Business Analyst,CULA (Credit Union Leasing of America),San Diego,CA,"sql, visio, sql, excel, stakeholder, uat, business process, pmp, product backlog, bachelor, lead, manager, opt, finance, insurance, leadership, communication",17,3.0,Bachelor
+17,Business Analyst Manager,U.S. Concrete,Euless,TX,"visio, business requirement, stakeholder, agile, pmp, bachelor, mba, lead, manager, director, leadership, communication",12,10.0,MBA
