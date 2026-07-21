@@ -125,15 +125,15 @@ Stockage dans **SQLite** avec 3 tables liées : `cvs`, `offres`, `matches`.
 ### 7️⃣ Tableau de bord Power BI
 
 **Page 1 — Vue d'ensemble RH**
-![Vue d'ensemble](images/dashboard_overview.png)
+![Vue d'ensemble](Capture%20d%27%C3%A9cran%202026-07-22%20001016.png)
 > Indicateurs clés, score moyen par poste, répartition compatibles / non compatibles, classement des candidats.
 
 **Page 2 — Fiche candidat**
-![Fiche candidat](images/dashboard_candidate.png)
+![Fiche candidat](Capture%20d%27%C3%A9cran%202026-07-22%20001046.png)
 > Profil du candidat, compétences, carte géographique, scores face aux 18 offres.
 
 **Page 3 — Vue par offre**
-![Vue par offre](images/dashboard_job.png)
+![Vue par offre](Capture%20d%27%C3%A9cran%202026-07-22%20001127.png)
 > Sélection poste + candidat, jauge de compatibilité, classement des meilleurs candidats.
 
 ---
