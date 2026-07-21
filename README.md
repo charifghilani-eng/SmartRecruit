@@ -127,15 +127,16 @@ Stockage dans **SQLite** avec 3 tables liées : `cvs`, `offres`, `matches`.
 <!-- 📸 Remplacez les liens ci-dessous par vos captures d'écran une fois uploadées dans le dossier images/ -->
 
 **Page 1 — Vue d'ensemble RH**
-<!-- ![Vue d'ensemble](images/dashboard_overview.png) -->
+Capture d'écran 2026-07-22 001016.png
+
 > Indicateurs clés, score moyen par poste, répartition compatibles / non compatibles, classement des candidats.
 
 **Page 2 — Fiche candidat**
-<!-- ![Fiche candidat](images/dashboard_candidate.png) -->
+Capture d'écran 2026-07-22 001046.png
 > Profil du candidat, compétences, carte géographique, scores face aux 18 offres.
 
 **Page 3 — Vue par offre**
-<!-- ![Vue par offre](images/dashboard_job.png) -->
+Capture d'écran 2026-07-22 001127.png
 > Sélection poste + candidat, jauge de compatibilité, classement des meilleurs candidats.
 
 ---
